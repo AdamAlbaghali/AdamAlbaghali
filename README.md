@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
-- 💼 &nbsp; Working as a Software Engineer Intern at Diskko.
+- 💼 &nbsp; Working as a Software Engineer Intern at DAuth Network.
 - 🌱 &nbsp; Learning more about Web Development, Data Science and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
