@@ -49,8 +49,6 @@
 <a href="https://github.com/AdamAlbaghali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamAlbaghali&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAlbaghali&theme=radical&layout=compact" />
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adamalbaghali&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
 </a>
 
 <br/>
