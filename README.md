@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
-- 💼 &nbsp; Working as a ...
+- 💼 &nbsp; Working as a SWE @Dauth Network Foundation
 - 🌱 &nbsp; Learning more about Web Development, Data Science and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
