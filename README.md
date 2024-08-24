@@ -53,9 +53,7 @@
 <a href="https://github.com/AdamAlbaghali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamAlbaghali&theme=radical&show_icons=true&cache_seconds=1800" alt="GitHub Stats"/>
 </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAlbaghali&theme=radical&layout=compact" />
-</a>
-
+  
 
 <br/>
 
